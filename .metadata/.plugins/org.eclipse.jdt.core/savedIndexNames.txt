@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Barbara\eclipse-workspace\DesafioDioSpring\padroes-projeto-spring\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1017291301.index
+2700335881.index

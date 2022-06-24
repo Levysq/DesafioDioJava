@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dio.gof.Strategy.Robo"/>
+    <fullyQualifiedTypeName name="dio.gof.Strategy.Comportamento"/>
+    <fullyQualifiedTypeName name="dio.gof.Strategy.ComportamentoDefensivo"/>
+    <fullyQualifiedTypeName name="dio.gof.Strategy.ComportamentoNormal"/>
+    <fullyQualifiedTypeName name="dio.gof.Strategy.ComportamentoAgressivo"/>
+    <fullyQualifiedTypeName name="subsistema1.crm.CrmService"/>
+    <fullyQualifiedTypeName name="subsistema2.cep.CepApi"/>
+    <fullyQualifiedTypeName name="dio.gof.facade.Facade"/>
+</qualifiedTypeNameHistroy>
